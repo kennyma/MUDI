@@ -1,0 +1,5 @@
+C:\workbench\MUDIDemo\Data\DataProvider\bin\Debug\MUDIDemo.Data.DataProvider.dll
+C:\workbench\MUDIDemo\Data\DataProvider\bin\Debug\MUDIDemo.Data.DataProvider.pdb
+C:\workbench\MUDIDemo\Data\DataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\workbench\MUDIDemo\Data\DataProvider\obj\Debug\MUDIDemo.Data.DataProvider.dll
+C:\workbench\MUDIDemo\Data\DataProvider\obj\Debug\MUDIDemo.Data.DataProvider.pdb

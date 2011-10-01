@@ -1,0 +1,14 @@
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Tests.Unit.RetailManagerTest.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Tests.Unit.RetailManagerTest.pdb
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Data.DataProvider.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Retail.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\nunit.framework.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Retail.pdb
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\MUDIDemo.Data.DataProvider.pdb
+C:\workbench\MUDIDemo\RetailManagerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\workbench\MUDIDemo\RetailManagerTest\obj\Debug\MUDIDemo.Tests.Unit.RetailManagerTest.dll
+C:\workbench\MUDIDemo\RetailManagerTest\obj\Debug\MUDIDemo.Tests.Unit.RetailManagerTest.pdb
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\NMock2.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\Autofac.dll
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\Autofac.pdb
+C:\workbench\MUDIDemo\RetailManagerTest\bin\Debug\Autofac.xml

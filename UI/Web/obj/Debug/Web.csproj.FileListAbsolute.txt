@@ -1,0 +1,5 @@
+C:\workbench\MUDIDemo\UI\Web\bin\MUDIDemo.UI.Web.dll
+C:\workbench\MUDIDemo\UI\Web\bin\MUDIDemo.UI.Web.pdb
+C:\workbench\MUDIDemo\UI\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\workbench\MUDIDemo\UI\Web\obj\Debug\MUDIDemo.UI.Web.dll
+C:\workbench\MUDIDemo\UI\Web\obj\Debug\MUDIDemo.UI.Web.pdb

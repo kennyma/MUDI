@@ -1,0 +1,5 @@
+C:\workbench\MUDIDemo\UI\Console\bin\Debug\MUDIDemo.UI.Console.exe
+C:\workbench\MUDIDemo\UI\Console\bin\Debug\MUDIDemo.UI.Console.pdb
+C:\workbench\MUDIDemo\UI\Console\obj\Debug\ResolveAssemblyReference.cache
+C:\workbench\MUDIDemo\UI\Console\obj\Debug\MUDIDemo.UI.Console.exe
+C:\workbench\MUDIDemo\UI\Console\obj\Debug\MUDIDemo.UI.Console.pdb
